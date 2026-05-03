@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Terminale PMF - Révisions",
+    pageTitle: "TPMF - Révisions",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
