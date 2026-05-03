@@ -1,14 +1,8 @@
 ---
-title: 🧪 Sommaire Physique-Chimie
+title: 🧪 Physique-Chimie Spé
 ---
 
-# 🧪 Physique-Chimie (Spécialité)
-
-> [!abstract] "Rien ne se perd, rien ne se crée, tout se transforme." — Lavoisier
-> Ce dossier centralise toutes les ressources pour réussir l'épreuve écrite et l'épreuve de capacités expérimentales (ECE).
-
----
-## 🛠️ Le Kit de Survie du Physicien
+# 🛠️ Boîte à Outils
 
 Pour gagner du temps pendant les révisions ou en séance de TP :
 
