@@ -20,7 +20,7 @@ Si vous repérez une coquille ou si vous avez une fiche à ajouter, n'hésitez p
 
 > [!abstract] 🧪 Spécialité Physique-Chimie
 > Mécanique, ondes, transformations chimiques...
-> - [[Physique-Chimie/Index Physique-Chimie|Accéder aux cours de Physique-Chimie]]
+> - [[Physique-Chimie (terminale spé)/index|Accéder aux cours de Physique-Chimie]]
 > - **Outils :** Formulaire complet, incertitudes, et astuces pour les ECE.
 
 > [!quote] 🦉 Philosophie (Tronc Commun)
