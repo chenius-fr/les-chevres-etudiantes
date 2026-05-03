@@ -13,6 +13,10 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "build": "node ./quartz/bootstrap-cli.mjs build",
+    "serve": "node ./quartz/bootstrap-cli.mjs build --serve",
+    "sync": "node ./quartz/bootstrap-cli.mjs sync",
+    "deploy": "git add . && git commit -m 'Mise à jour des cours' && git push origin v4",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
