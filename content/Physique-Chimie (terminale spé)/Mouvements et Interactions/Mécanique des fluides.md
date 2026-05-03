@@ -1,6 +1,16 @@
-# Chapitre 15 : Mécanique des fluides
+---
+title: Mécanique des fluides
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - mécanique
+  - fluides
+  - bernoulli
+  - archimède
+---
+
 **Thème** : [[Mouvement et interactions]]
-**Tags** : #physique_chimie #terminale #cours #mécanique #fluides #bernoulli #archimède
 
 ---
 

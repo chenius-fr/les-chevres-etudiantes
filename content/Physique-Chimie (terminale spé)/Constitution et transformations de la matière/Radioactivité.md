@@ -1,4 +1,13 @@
-# Chapitre 9 : Radioactivité
+---
+title: Radioactivité
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - nucléaire
+  - radioactivité
+---
+
 **Thème** : [[Constitution et transformations de la matière]]
 **Tags** : #physique_chimie #terminale #cours #nucléaire #radioactivité
 

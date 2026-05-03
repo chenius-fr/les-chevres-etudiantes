@@ -1,6 +1,14 @@
-# Chapitre 13 : Transferts thermiques
+---
+title: Transferts thermiques
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - thermodynamique
+  - énergie
+---
+
 **Thème** : [[L'énergie : conversions et transferts]]
-**Tags** : #physique_chimie #terminale #cours #thermodynamique #énergie
 
 ---
 

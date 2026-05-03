@@ -1,6 +1,14 @@
-# Chapitre 11 : La lunette astronomique
+---
+title: La lunette astronomique
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - optique
+  - lunette_astronomique
+---
+
 **Thème** : [[Ondes et signaux]]
-**Tags** : #physique_chimie #terminale #cours #optique #lunette_astronomique
 
 ---
 

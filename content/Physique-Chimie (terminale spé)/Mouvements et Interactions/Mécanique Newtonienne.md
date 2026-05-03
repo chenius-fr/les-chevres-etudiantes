@@ -1,6 +1,15 @@
-# Chapitre 4 : Mécanique Newtonienne
+---
+title: Mécanique Newtonienne
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - mécanique
+  - newton
+  - cinématique
+---
+
 **Thème** : [[Mouvement et interactions]]
-**Tags** : #physique_chimie #terminale #cours #mécanique #newton #cinématique
 
 ---
 

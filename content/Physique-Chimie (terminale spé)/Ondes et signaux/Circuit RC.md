@@ -1,6 +1,15 @@
-# Chapitre 14 : Circuit RC
+---
+title: Circuit RC
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - électricité
+  - circuit_RC
+  - équa_diff
+---
+
 **Thème** : [[Ondes et signaux]] 
-**Tags** : #physique_chimie #terminale #cours #électricité #circuit_RC #équa_diff
 
 ---
 

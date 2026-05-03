@@ -1,6 +1,15 @@
-# Chapitre 5 : Mouvement des planètes et satellites
+---
+title: Mouvement des planètes et satellites
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - mécanique
+  - kepler
+  - astrophysique
+---
+
 **Thème** : [[Mouvement et interactions]]
-**Tags** : #physique_chimie #terminale #cours #mécanique #kepler #astrophysique
 
 ---
 

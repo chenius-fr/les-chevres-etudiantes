@@ -1,6 +1,15 @@
-# Chapitre 6 : Énergie en mécanique
+---
+title: Énergie en mécanique
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - mécanique
+  - énergie
+  - travail
+---
+
 **Thème** : [[Mouvement et interactions]]
-**Tags** : #physique_chimie #terminale #cours #mécanique #énergie #travail
 
 ---
 

@@ -1,6 +1,16 @@
-# Chapitre 10 : Propagation des ondes
+---
+title: Propagation des ondes
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - ondes
+  - doppler
+  - diffraction
+  - interférences
+---
+
 **Thème** : [[Ondes et signaux]]
-**Tags** : #physique_chimie #terminale #cours #ondes #doppler #diffraction #interférences
 
 ---
 

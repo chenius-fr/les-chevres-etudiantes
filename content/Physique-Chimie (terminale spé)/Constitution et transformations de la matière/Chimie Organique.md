@@ -1,6 +1,14 @@
-# Chapitre 7 : Chimie Organique
+---
+title: Chimie Organique
+tags:
+  - astrophysique
+  - terminale
+  - cours
+  - chimie_organique
+  - synthèse
+---
+
 **Thème** : [[Constitution et transformations de la matière]]
-**Tags** : #physique_chimie #terminale #cours #chimie_organique #synthèse 
 
 ---
 

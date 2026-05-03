@@ -1,6 +1,14 @@
-# Chapitre 12 : Piles (Oxydoréduction et évolution spontanée)
+---
+title: Piles (Oxydoréduction et évolution spontanée)
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - rédox
+  - pile
+---
+
 **Thème** : [[Constitution et transformations de la matière]]
-**Tags** : #physique_chimie #terminale #cours #rédox #pile
 
 ---
 

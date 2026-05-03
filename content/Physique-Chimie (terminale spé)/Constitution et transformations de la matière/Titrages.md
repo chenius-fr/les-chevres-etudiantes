@@ -1,6 +1,14 @@
-# Chapitre 3 : Titrages
+---
+title: Titrages
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - dosage
+  - titrage
+---
+
 **Thème** : [[Constitution et transformations de la matière]]
-**Tags** : #physique_chimie #terminale #cours #dosage #titrage
 
 ---
 

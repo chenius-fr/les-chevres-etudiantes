@@ -1,6 +1,15 @@
-# Chapitre 8 : Cinétique Chimique
+---
+title: Cinétique Chimique
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - cinétique
+  - vitesse
+  - catalyse
+---
+
 **Thème** : [[Constitution et transformations de la matière]]
-**Tags** : #physique_chimie #terminale #cours #cinétique #vitesse #catalyse
 
 ---
 
