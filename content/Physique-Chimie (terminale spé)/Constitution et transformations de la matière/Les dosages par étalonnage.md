@@ -1,6 +1,14 @@
-# Chapitre 1 : Les dosages par étalonnage
+---
+title: Les dosages par étalonnage
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - dosage
+  - chimie
+---
+
 **Thème** : [[Constitution et transformations de la matière]]
-**Tags** : #physique_chimie #terminale #cours #dosage #chimie
 
 ---
 
