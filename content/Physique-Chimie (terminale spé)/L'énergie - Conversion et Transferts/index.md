@@ -1,5 +1,5 @@
 ---
-title:️ Énergie: 🌡️ Conversion et Transferts
+title: 🌡️ Conversion et Transferts
 ---
 
 
