@@ -1,6 +1,14 @@
-# Chapitre 2 : Équilibres Acide-Base
+---
+title: Équilibres Acide-Base
+tags:
+  - physique_chimie
+  - terminale
+  - cours
+  - acide_base
+  - pH
+---
+
 **Thème** : [[Constitution et transformations de la matière]]
-**Tags** : #physique_chimie #terminale #cours #acide_base #pH
 
 ---
 
