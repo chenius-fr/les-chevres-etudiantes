@@ -9,7 +9,6 @@ tags:
   - méthode
 ---
 
-**Thème** : [[Préparation ECE]]
 
 ---
 

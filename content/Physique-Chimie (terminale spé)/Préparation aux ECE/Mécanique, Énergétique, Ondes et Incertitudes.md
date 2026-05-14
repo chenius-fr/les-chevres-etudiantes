@@ -10,7 +10,6 @@ tags:
   - incertitudes
 ---
 
-**Thème** : [[Préparation ECE]]
 
 ---
 

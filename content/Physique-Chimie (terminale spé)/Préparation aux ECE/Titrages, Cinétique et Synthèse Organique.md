@@ -12,8 +12,6 @@ tags:
 ---
 
 
-**Thème** : [[Préparation ECE]]
-
 ---
 
 ## Les Titrages (pH, Conductimétrie, Colorimétrie)
