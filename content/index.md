@@ -25,7 +25,7 @@ Si vous repérez une coquille ou si vous avez une fiche à ajouter, n'hésitez p
 
 > [!quote] 🦉 Philosophie (Tronc Commun)
 > Les grandes notions, les auteurs clés et la méthodologie de la dissertation/explication de texte.
-> - [[Philosophie/Index Philosophie|Accéder aux cours de Philo]]
+> - [[Philosophie/index|Accéder aux cours de Philo]]
 > - **Outils :** Citations utiles, fiches concepts (La Nature, L'État, La Vérité...).
 
 ---
