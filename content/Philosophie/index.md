@@ -1,4 +1,9 @@
-# 🖋️ Philosophie (Terminale)
+---
+title: 🖋️ Philosophie (Terminale)
+tags:
+  - philosophie
+---
+
 
 Ce dossier est organisé pour t'aider à structurer ta pensée, enrichir ta culture philosophique et réussir les épreuves du Bac.
 
@@ -7,15 +12,6 @@ Ce dossier est organisé pour t'aider à structurer ta pensée, enrichir ta cult
 ## 🏛️ Les Pôles de Réflexion
 
 Voici les grandes thématiques du programme, regroupées par enjeux. Clique sur les titres pour accéder aux fiches de notions, aux repères et aux auteurs clés.
-
-### 🛠️ [[Boîte à Outils du Bac/index|Boîte à Outils du Bac]]
-
-L'essentiel pour maîtriser l'exercice de la pensée :
-
-- Méthodologie de la **Dissertation**.
-    
-- Lexique des **Repères philosophiques** (Absolu/Relatif, En fait/En droit, etc.).
-    
 
 ### 🧠 [[L'Épistémologie et la Raison/index|L'Épistémologie et la Raison]]
 
@@ -55,7 +51,7 @@ Comment l'homme agit-il sur la nature ?
 
 ---
 
-## 🧰 Boîte à outils du BAC
+## 🧰 [[Philosophie/Boîte à Outils du Bac/index|Boîte à outils du BAC]]
 
 Pour aller plus loin et muscler tes copies :
 
