@@ -13,7 +13,7 @@ Ce dossier est organisé pour t'aider à structurer ta pensée, enrichir ta cult
 
 Voici les grandes thématiques du programme, regroupées par enjeux. Clique sur les titres pour accéder aux fiches de notions, aux repères et aux auteurs clés.
 
-### 🧠 [[L'Épistémologie et la Raison/index|L'Épistémologie et la Raison]]
+### 🧠 [[Philosophie/L'Épistémologie et la Raison/index|L'Épistémologie et la Raison]]
 
 Comment connaît-on le monde ? La vérité est-elle accessible ?
 
@@ -22,7 +22,7 @@ Comment connaît-on le monde ? La vérité est-elle accessible ?
 - _Auteurs de référence : Descartes, Kant, Bachelard, Popper._
     
 
-### 🧘 [[La Condition Humaine et le Bonheur/index|La Condition Humaine et le Bonheur]]
+### 🧘 [[Philosophie/La Condition Humaine et le Bonheur/index|La Condition Humaine et le Bonheur]]
 
 Qu'est-ce que vivre ? Le bonheur est-il le but de l'existence ?
 
@@ -31,7 +31,7 @@ Qu'est-ce que vivre ? Le bonheur est-il le but de l'existence ?
 - _Auteurs de référence : Épicure, Schopenhauer, Freud, Pascal._
     
 
-### ⚖️ [[La Politique/index|La Politique]]
+### ⚖️ [[Philosophie/La Politique/index|La Politique]]
 
 Comment vivre ensemble ? La liberté est-elle possible dans l'État ?
 
@@ -40,7 +40,7 @@ Comment vivre ensemble ? La liberté est-elle possible dans l'État ?
 - _Auteurs de référence : Hobbes, Rousseau, Machiavel, Spinoza._
     
 
-### 🏗️ [[La Transformation du Monde (Le Travail, La Technique)/index|La Transformation du Monde]]
+### 🏗️ [[Philosophie/La Transformation du Monde (Le Travail, La Technique)/index|La Transformation du Monde (Le Travail, La Technique)]]
 
 Comment l'homme agit-il sur la nature ?
 
