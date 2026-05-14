@@ -73,3 +73,14 @@ La valeur moyenne correspond à la hauteur constante d'un rectangle de base $(b-
 > Soit $f$ une fonction continue sur l'intervalle $[a ; b]$ (avec $a < b$). 
 > La valeur moyenne de la fonction $f$ sur cet intervalle est le réel $\mu$ défini par :
 > $$\mu = \frac{1}{b-a} \int_{a}^{b} f(x) dx$$
+
+
+## V - L'Intégration Par Parties (IPP) 
+
+Cette technique permet d'intégrer un produit de fonctions de natures différentes. > **Théorème de l'IPP** > Soient $u$ et $v$ deux fonctions dérivables sur $[a;b]$ dont les dérivées $u'$ et $v'$ sont continues. > 
+
+$$\int_{a}^{b} u(x)v'(x)dx = [u(x)v(x)]_{a}^{b} - \int_{a}^{b} u'(x)v(x)dx$$
+
+**Méthode de choix :** 
+* On pose $u(x)$ la fonction que l'on veut "simplifier" en dérivant (souvent un polynôme ou $\ln(x)$). 
+* On pose $v'(x)$ la fonction dont on connaît une primitive simple (souvent $e^x$, $\cos(x)$ ou $\sin(x)$).
