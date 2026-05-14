@@ -1,5 +1,5 @@
 ---
-title: 🖋️ Philosophie (Terminale)
+title: 🖋️ Philosophie
 tags:
   - philosophie
 ---
